@@ -23,7 +23,6 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                         <li><a href="<?= base_url('welcome/tentang') ?>">Tentang E-Learning</a></li>
                         <li><a href="<?= base_url('welcome/materi') ?>">Materi E-Learning</a></li>
                         <li><a href="<?= base_url('welcome/kontak') ?>">Kontak E-Learning</a></li>
-                        <li><a href="http://smkn1ciamis.id/">Website Resmi Sekolah</a></li>
                     </ul>
                 </div>
             </div>
