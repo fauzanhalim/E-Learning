@@ -233,13 +233,7 @@
 
     <!-- End Sweetalert -->
 
-    <!-- Start Footer -->
-    <footer class="main-footer">
-        <div class="text-center">
-            Copyright &copy; 2020 <div class="bullet"></div><a href="https://github.com/syauqi">Syauqi Zaidan Khairan Khalaf</a>
-        </div>
-    </footer>
-    <!-- End Footer -->
+  
 
     <!-- General JS Scripts -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>

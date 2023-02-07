@@ -137,14 +137,6 @@
 			</div>
 			<!-- End Main Content -->
 
-			<!-- Start Footer -->
-			<footer class="main-footer">
-				<div class="text-center">
-					Copyright &copy; 2020 <div class="bullet"></div><a href="https://github.com/syauqi">Syauqi Zaidan Khairan Khalaf</a>
-				</div>
-			</footer>
-			<!-- End Footer -->
-
 		</div>
 	</div>
 

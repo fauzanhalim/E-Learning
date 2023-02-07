@@ -29,7 +29,7 @@ class Admin extends CI_Controller
         $this->load->view('admin/about_developer');
     }
 
-    public function about_E-Learning()
+    public function about_Learning()
     {
         $data['user'] = $this->db->get_where('admin', ['email' =>
             $this->session->userdata('email')])->row_array();

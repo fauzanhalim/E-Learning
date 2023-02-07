@@ -129,7 +129,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
     <div id="kt_header_mobile" class="kt-header-mobile  kt-header-mobile--fixed ">
         <div class="kt-header-mobile__logo">
             <a href="<?=base_url('guru/add_materi')?>">
-                <img alt="Logo" src="<?=base_url('assets')?>/img/logo.png" width="90px;" />
+                <img alt="Logo" src="<?=base_url('assets')?>/img/logo1.png" width="90px;" />
             </a>
         </div>
         <div class="kt-header-mobile__toolbar">
