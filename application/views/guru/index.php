@@ -1,13 +1,13 @@
 <!--
-@Project: Learnify
+@Project: E-Learning
 @Programmer: Syauqi Zaidan Khairan Khalaf
 @Website: https://linktr.ee/syauqi
 @Email : syaokay@gmail.com
 
-@About-Learnify :
-Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
+@About-E-Learning :
+E-Learning adalah Web Edukasi Open-Source yang dibuat untuk pembelajaran dimana para siswa dapat belajar dimana saja dan kapan saja. Guru dapat mengupload video dirinya sendiri sedang mengajar, sehingga tanpa takut adanya jam kosong atau pun keadaan yang tidak terduga apapun karena E-Learning dapat diakses dimana saja dan kapan saja.yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
+E-Learning adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
+yang tersedia secara gratis. E-Learning dibuat ditujukan agar para siswa dan
 guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 -->
 
@@ -18,7 +18,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
 <head>
     <meta charset="utf-8" />
-    <title>Learnify - Teacher Page</title>
+    <title>E-Learning - Teacher Page</title>
     <meta name="description" content="Latest updates and statistic charts">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -286,7 +286,7 @@ echo $data['user']['nama_guru'];
                                                 Tambah data materi
                                             </div>
                                             <div class="kt-notification__item-time">
-                                                Tambah Materi Learnify
+                                                Tambah Materi E-Learning
                                             </div>
                                         </div>
                                     </a>
@@ -372,7 +372,7 @@ echo $data['user']['nama_guru'];
                                             </h1>
                                             <div class="kt-widget19__shadow"></div>
                                             <div class="kt-widget19__labels">
-                                                <a href="#" class="btn btn-label-light-o2 btn-bold btn-sm ">Learnify</a>
+                                                <a href="#" class="btn btn-label-light-o2 btn-bold btn-sm ">E-Learning</a>
                                             </div>
                                         </div>
                                     </div>
@@ -393,11 +393,11 @@ echo $data['user']['nama_guru'];
                                                 </div>
                                             </div>
                                             <div class="kt-widget19__text">
-                                                Selamat datang di halaman guru Learnify, anda dapat menambah materi .
+                                                Selamat datang di halaman guru E-Learning, anda dapat menambah materi .
                                                 Dalam materi anda dapat memasukan video, dan deskripsi nya. Seemoga anda
-                                                dapat menikmati Learnify!, kontak Administrator jika terjadi masalah
+                                                dapat menikmati E-Learning!, kontak Administrator jika terjadi masalah
                                                 apapun yang terkait upload materi. Terima kasih telah menggunakan
-                                                learnify!
+                                                E-Learning!
                                                 <br>
                                                 Selamat Bekerja :)
                                             </div>
@@ -417,16 +417,6 @@ echo $data['user']['nama_guru'];
                         <!--end:: Widgets/Order Statistics-->
 
 
-                        <!-- begin:: Footer -->
-                        <div class="kt-footer kt-grid__item kt-grid kt-grid--desktop kt-grid--ver-desktop">
-                            <div class="kt-footer__copyright">
-                                2020&nbsp;&copy;&nbsp;<a href="https://syauqizaidan.github.io/" target="_blank"
-                                    class="kt-link">Syaauqi Zaaidan & Descienfy</a>
-                            </div>
-                            <div class="kt-footer__menu">
-                                Made with &nbsp; <span class="" style="color: red"> &#10084;</span> &nbsp; by Syaauqi
-                            </div>
-                        </div>
 
                         <!-- end:: Footer -->
                     </div>

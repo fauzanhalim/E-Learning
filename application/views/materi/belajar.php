@@ -1,13 +1,13 @@
 <!--
-@Project: Learnify
+@Project: E-Learning
 @Programmer: Syauqi Zaidan Khairan Khalaf
 @Website: https://linktr.ee/syauqi
 @Email : syaokay@gmail.com
 
-@About-Learnify :
-Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
+@About-E-Learning :
+E-Learning adalah Web Edukasi Open-Source yang dibuat untuk pembelajaran dimana para siswa dapat belajar dimana saja dan kapan saja. Guru dapat mengupload video dirinya sendiri sedang mengajar, sehingga tanpa takut adanya jam kosong atau pun keadaan yang tidak terduga apapun karena E-Learning dapat diakses dimana saja dan kapan saja.yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
+E-Learning adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
+yang tersedia secara gratis. E-Learning dibuat ditujukan agar para siswa dan
 guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 -->
 
@@ -95,7 +95,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                                                                         $data['user'] = $this->db->get_where('siswa', ['email' =>
                                                                         $this->session->userdata('email')])->row_array();
                                                                         echo $data['user']['nama'];
-                                                                        ?> - Learnify Students</h3>
+                                                                        ?> E-Learning Students</h3>
                         <p><?= $detail->nama_mapel ?> - Kelas <?= $detail->kelas ?></p>
                         <hr align="left" width="600;">
                         <p style="line-height: 3px;">Kita akan mempelajari tentang</p>
@@ -141,22 +141,6 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
     <br>
 
-
-    <!-- Start Disqus Comment -->
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="card komen w-150 border-0">
-                    <div class="card-body p-5" style="font-family: 'Poppins', sans-serif !important;">
-                        <h1 style="color: black; font-size:44px !important;">Apa komentarmu ?</h1>
-                        <br>
-                        <?php echo $disqus ?>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Start Disqus Comment -->
 
 
     <br>

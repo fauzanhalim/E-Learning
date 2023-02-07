@@ -1,23 +1,10 @@
-<!--
-@Project: Learnify
-@Programmer: Syauqi Zaidan Khairan Khalaf
-@Website: https://linktr.ee/syauqi
-@Email : syaokay@gmail.com
-
-@About-Learnify :
-Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
-guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
--->
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
 	<meta charset="UTF-8">
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-	<title>Tentang Developer - Learnify</title>
+	<title>Tentang Developer E-Learning</title>
 	<!-- General CSS Files -->
 	<link rel="icon" href="<?= base_url('assets/') ?>img/favicon.png" type="image/png">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap" rel="stylesheet">
@@ -27,6 +14,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 	<!-- Template CSS -->
 	<link rel="stylesheet" href="<?= base_url('assets/') ?>stisla-assets/css/style.css">
 	<link rel="stylesheet" href="<?= base_url('assets/') ?>stisla-assets/css/components.css">
+	<script src="//cdn.jsdelivr.net/npm/afterglowplayer@1.x"></script>
 </head>
 
 <body>
@@ -52,7 +40,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 																									?></div>
 						</a>
 						<div class="dropdown-menu dropdown-menu-right">
-							<div class="dropdown-title">Admin - Learnify</div>
+							<div class="dropdown-title">Admin E-Learning</div>
 							<a href="<?= base_url('welcome/logout') ?>" class="dropdown-item has-icon text-danger">
 								<i class="fas fa-sign-out-alt"></i> Logout
 							</a>
@@ -65,7 +53,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 					<div class="sidebar-brand text-danger">
 						<div>
 							<a href="<?= base_url('admin') ?>" style="font-size: 30px;font-weight:900;font-family: 'Poppins', sans-serif;" class="text-success text-center"><i style="font-size: 30px;" class="fas fa-graduation-cap"></i> |
-								Learnify <sup>3</sup> </a>
+							E-Learning <sup>3</sup> </a>
 						</div>
 					</div>
 					<div class="sidebar-brand sidebar-brand-sm">
@@ -93,7 +81,6 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 								</li>
 								<li><a class="nav-link" href="<?= base_url('admin/add_guru') ?>">Tambah Data Guru</a>
 								</li>
-
 							</ul>
 						</li>
 						<li class="menu-header">Management Materi</li>
@@ -116,8 +103,8 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 								<li><a class="nav-link" href="<?= base_url('admin/about_developer') ?>">Tentang
 										Pembuat</a>
 								</li>
-								<li><a class="nav-link" href="<?= base_url('admin/about_learnify') ?>">Tentang
-										Learnify</a>
+								<li><a class="nav-link" href="<?= base_url('admin/about_E-Learning') ?>">Tentang
+								E-Learning</a>
 								</li>
 							</ul>
 						</li>
@@ -128,24 +115,24 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 			<!-- Main Content -->
 			<div class="main-content">
 				<section class="section">
+					<div class="section-header">
+						<h1 style="font-size: 27px; letter-spacing:-0.5px; color:black;">Tentang Project E-Learning </h1>
+					</div>
 					<div class="">
-						<div class="hero text-white hero-bg-image" data-background="https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=649&q=80">
-							<div class="col-md-4 mx-auto rounded-circle bg-white p-3" style="border-radius:3px;box-shadow:rgba(0, 0, 0, 0.03) 0px 4px 8px 0px;">
-								<img src="<?= base_url('assets/img/') ?>Syauqi.jpg" class="card-img-top rounded-circle img-responsive" alt="...">
-							</div>
-						</div>
+						<video class="afterglow" autoplay id="myvideo" width="1280" height="720">
+							<source type="video/mp4" src="<?= base_url('assets/videos/') ?>trailer.mp4" />
+						</video>
 					</div>
 					<br>
 					<div class="">
 						<div class="card" style="width:100%;">
 							<div class="card-body">
-								<h2 class="card-title" style="color: black;">Syauqi Zaidan Khairan Khalaf</h2>
+								<h2 class="card-title" style="color: black;">Tentang E-Learning</h2>
 								<hr>
-								<p class="card-text">Perfectionist Web Developer with one years of experience as a Web Developer and Web Designer. Skilled at Designing and developing Websites. Excellent written and oral communication skills; capable of explaining complex software issues in easy-to-understand terms. </p>
+								<p class="card-text">E-Learning adalah Web Edukasi Open-Source yang dibuat untuk pembelajaran dimana para siswa dapat belajar dimana saja dan kapan saja. Guru dapat mengupload video dirinya sendiri sedang mengajar, sehingga tanpa takut adanya jam kosong atau pun keadaan yang tidak terduga apapun karena E-Learning dapat diakses dimana saja dan kapan saja. </p>
 							</div>
 						</div>
 					</div>
-					<br>
 				</section>
 			</div>
 			<!-- End Main Content -->

@@ -1,13 +1,13 @@
 <!--
-@Project: Learnify
+@Project: E-Learning
 @Programmer: Syauqi Zaidan Khairan Khalaf
 @Website: https://linktr.ee/syauqi
 @Email : syaokay@gmail.com
 
-@About-Learnify :
-Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
+@About-E-Learning :
+E-Learning adalah Web Edukasi Open-Source yang dibuat untuk pembelajaran dimana para siswa dapat belajar dimana saja dan kapan saja. Guru dapat mengupload video dirinya sendiri sedang mengajar, sehingga tanpa takut adanya jam kosong atau pun keadaan yang tidak terduga apapun karena E-Learning dapat diakses dimana saja dan kapan saja.yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
+E-Learning adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
+yang tersedia secara gratis. E-Learning dibuat ditujukan agar para siswa dan
 guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 -->
 
@@ -18,7 +18,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-    <title>Learnify - Teacher Login</title>
+    <title>E-Learning - Teacher Login</title>
 
     <!-- General CSS Files -->
     <link rel="icon" href="<?= base_url('assets/') ?>img/favicon.png" type="image/png">
@@ -42,7 +42,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                 <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-white">
                     <div class="p-4 m-3">
                         <a href="<?= base_url('welcome') ?>"> <img src="<?= base_url('assets/') ?>/img/logo.png" alt="logo" width="150" class=" mb-5 mt-2"></a>
-                        <h4 class="text-dark font-weight-normal">Selamat datang di <span class="font-weight-bold">Learnify</span>
+                        <h4 class="text-dark font-weight-normal">Selamat datang di <span class="font-weight-bold">E-Learning</span>
                         </h4>
                         <p class="text-muted">Sebelum masuk ke halaman guru, anda harus login terlebih dahulu sebagai
                             guru. silahkan isi data dibawah untuk melanjutkan.</p>
@@ -81,7 +81,6 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                                     masuk ke
                                     halaman guru.</h5>
                             </div>
-                            Made with <span class="text-danger"> &#10084;</span> by <a class="text-light bb" target="_blank" href="https://syauqizaidan.github.io/">Syaauqi Zaaidan</a> - Image by <a class="text-light bb" target="_blank" href="https://unsplash.com">Unsplash</a>
                         </div>
                     </div>
                 </div>

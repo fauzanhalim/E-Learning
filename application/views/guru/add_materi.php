@@ -1,13 +1,13 @@
 <!--
-@Project: Learnify
+@Project: E-Learning
 @Programmer: Syauqi Zaidan Khairan Khalaf
 @Website: https://linktr.ee/syauqi
 @Email : syaokay@gmail.com
 
-@About-Learnify :
-Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
+@About-E-Learning :
+E-Learning adalah Web Edukasi Open-Source yang dibuat untuk pembelajaran dimana para siswa dapat belajar dimana saja dan kapan saja. Guru dapat mengupload video dirinya sendiri sedang mengajar, sehingga tanpa takut adanya jam kosong atau pun keadaan yang tidak terduga apapun karena E-Learning dapat diakses dimana saja dan kapan saja.yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
+E-Learning adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
+yang tersedia secara gratis. E-Learning dibuat ditujukan agar para siswa dan
 guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 -->
 
@@ -18,7 +18,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
 <head>
     <meta charset="utf-8" />
-    <title>Learnify - Tambah Materi</title>
+    <title>E-Learning - Tambah Materi</title>
     <meta name="description" content="Latest updates and statistic charts">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -285,7 +285,7 @@ echo $data['user']['nama_guru'];
                                                 Tambah data materi
                                             </div>
                                             <div class="kt-notification__item-time">
-                                                Tambah Materi Learnify
+                                                Tambah Materi E-Learning
                                             </div>
                                         </div>
                                     </a>
@@ -418,9 +418,6 @@ echo $data['user']['nama_mapel'];?>" class="form-control" id="inputEmail4">
                     <div class="kt-footer__copyright">
                         2019&nbsp;&copy;&nbsp;<a href="https://syauqizaidan.github.io/" target="_blank"
                             class="kt-link">Syaauqi Zaaidan & Descienfy</a>
-                    </div>
-                    <div class="kt-footer__menu">
-                        Made with &nbsp; <span class="" style="color: red"> &#10084;</span> &nbsp; by Syaauqi
                     </div>
                 </div>
 

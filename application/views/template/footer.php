@@ -1,13 +1,13 @@
 <!--
-@Project: Learnify
+@Project: E-Learning
 @Programmer: Syauqi Zaidan Khairan Khalaf
 @Website: https://linktr.ee/syauqi
 @Email : syaokay@gmail.com
 
-@About-Learnify :
-Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
+@About-E-Learning :
+E-Learning adalah Web Edukasi Open-Source yang dibuat untuk pembelajaran dimana para siswa dapat belajar dimana saja dan kapan saja. Guru dapat mengupload video dirinya sendiri sedang mengajar, sehingga tanpa takut adanya jam kosong atau pun keadaan yang tidak terduga apapun karena E-Learning dapat diakses dimana saja dan kapan saja.yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
+E-Learning adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
+yang tersedia secara gratis. E-Learning dibuat ditujukan agar para siswa dan
 guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 -->
 
@@ -16,18 +16,18 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 <footer class="footer-area p_60">
     <div class="container">
         <div class="row">
-            <div class="col-lg-2  col-md-6 col-sm-6">
+            <div class="col-lg-3  col-md-8 col-sm-8">
                 <div class="single-footer-widget tp_widgets">
                     <h6 class="footer_title">Tentang Kami</h6>
                     <ul class="list">
-                        <li><a href="<?= base_url('welcome/tentang') ?>">Tentang Learnify</a></li>
-                        <li><a href="<?= base_url('welcome/materi') ?>">Materi Learnify</a></li>
-                        <li><a href="<?= base_url('welcome/kontak') ?>">Kontak Learnify</a></li>
+                        <li><a href="<?= base_url('welcome/tentang') ?>">Tentang E-Learning</a></li>
+                        <li><a href="<?= base_url('welcome/materi') ?>">Materi E-Learning</a></li>
+                        <li><a href="<?= base_url('welcome/kontak') ?>">Kontak E-Learning</a></li>
                         <li><a href="http://smkn1ciamis.id/">Website Resmi Sekolah</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-2  col-md-6 col-sm-6">
+            <div class="col-lg-3  col-md-8 col-sm-8">
                 <div class="single-footer-widget tp_widgets">
                     <h6 class="footer_title">Masuk - Sign in</h6>
                     <ul class="list">
@@ -36,7 +36,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-2  col-md-6 col-sm-6">
+            <div class="col-lg-3  col-md-8 col-sm-8">
                 <div class="single-footer-widget tp_widgets">
                     <h6 class="footer_title">Pelajaran - Materi</h6>
                     <ul class="list">
@@ -48,37 +48,11 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-2  col-md-6 col-sm-6">
-                <div class="single-footer-widget tp_widgets">
-                    <h6 class="footer_title">Tentang Developer</h6>
-                    <ul class="list">
-                        <li>Perfectionist Web Developer with one years of experience as a Web Developer and Web Designer. Skilled at Designing and developing Websites. Excellent written and oral communication skills; capable of explaining complex software issues in easy-to-understand terms.</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <h4 class="footer_title">Tentang Learnify</h4>
+            <div class="col-lg-3 col-md-8 col-sm-8">
+                <h4 class="footer_title">Tentang E-Learning</h4>
                 <p>
-                    Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf. Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
+                    E-Learning adalah Web Edukasi Open-Source yang dibuat untuk pembelajaran dimana para siswa dapat belajar dimana saja dan kapan saja. 
                 </p>
-            </div>
-        </div>
-        <div class="row footer-bottom d-flex justify-content-between align-items-center">
-            <p class="col-lg-8 col-md-8 footer-text m-0">
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                Copyright &copy;<script>
-                    document.write(new Date().getFullYear());
-                </script> All rights reserved | This template is made with <span class="text-danger"> &#10084;</span> by
-                <a href="https://colorlib.com" target="_blank">Colorlib</a> <br> Learnify is made with <span class="text-danger"> &#10084;</span> by <a href="https://github.com/syauqi">Syauqi Zaidan Khairan Khalaf </a> with MIT License
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            </p>
-            <div class="col-lg-4 col-md-4 footer-social">
-                <a href="https://www.facebook.com/syaaauqi"><i class="fa fa-facebook"></i></a>
-                <a href="https://twitter.com/syaaauqi"><i class="fa fa-twitter"></i></a>
-                <a href="https://dribbble.com/syaufy"><i class="fa fa-dribbble"></i></a>
-                <a href="https://www.behance.net/syaufy"><i class="fa fa-behance"></i></a>
-                <a href="https://www.github.com/syauqi"><i class="fa fa-github"></i></a>
-                <a href="https://www.instagram.com/syaufy"><i class="fa fa-instagram"></i></a>
             </div>
         </div>
     </div>
@@ -92,7 +66,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
         <div class="modal-content">
             <div class="modal-header">
                 <h2 class="modal-title text-dark font-weight-bold" style="color:#212529 !important;" id="exampleModalCenterTitle">
-                    Learnify - Masuk Sekarang</h2>
+                    E-Learning - Masuk Sekarang</h2>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
