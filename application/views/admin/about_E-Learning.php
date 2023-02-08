@@ -118,11 +118,6 @@
 					<div class="section-header">
 						<h1 style="font-size: 27px; letter-spacing:-0.5px; color:black;">Tentang Project E-Learning </h1>
 					</div>
-					<div class="">
-						<video class="afterglow" autoplay id="myvideo" width="1280" height="720">
-							<source type="video/mp4" src="<?= base_url('assets/videos/') ?>trailer.mp4" />
-						</video>
-					</div>
 					<br>
 					<div class="">
 						<div class="card" style="width:100%;">
