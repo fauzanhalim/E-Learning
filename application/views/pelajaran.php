@@ -30,14 +30,14 @@
                         <div class="courses_item" data-aos="fade-right" data-aos-duration="1800">
                             <img src="<?= base_url('assets/') ?>img/courses/course-1.jpg" alt="">
                             <div class="hover_text">
-                                <a class="cat" href="#">Gratis</a>
+                                <a class="cat" href="#">Akses</a>
                                 <a href="javaScript:void(0);">
-                                    <h4>Kelas Matematika Gratis</h4>
+                                    <h4>Kelas Matematika </h4>
                                 </a>
                                 <ul class="list">
                                     <li><a href="#"><i class="lnr lnr-users"></i>54</a></li>
                                     <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                                    <li><a href="#"><i class="lnr lnr-user"></i>Guru Matematika SMKN 1 Ciamis</a>
+                                    <li><a href="#"><i class="lnr lnr-user"></i>Guru Indonesia SMPN Bandung</a>
                                     </li>
                                 </ul>
                             </div>
@@ -47,14 +47,14 @@
                         <div class="courses_item" data-aos="fade-down" data-aos-duration="1800">
                             <img src="<?= base_url('assets/') ?>img/courses/course-2.jpg" alt="">
                             <div class="hover_text">
-                                <a class="cat" href="#">Gratis</a>
+                                <a class="cat" href="#">Akses</a>
                                 <a href="javaScript:void(0);">
-                                    <h4>Kelas IPA Gratis</h4>
+                                    <h4>Kelas IPA</h4>
                                 </a>
                                 <ul class="list">
                                     <li><a href="#"><i class="lnr lnr-users"></i> 34</a></li>
                                     <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru IPA SMKN 1 Ciamis</a></li>
+                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru Indonesia SMPN Bandung</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -63,14 +63,14 @@
                         <div class="courses_item" data-aos="fade-right" data-aos-duration="1800">
                             <img src="<?= base_url('assets/') ?>img/courses/course-4.jpg" alt="">
                             <div class="hover_text">
-                                <a class="cat" href="#">Gratis</a>
+                                <a class="cat" href="#">Akses</a>
                                 <a href="javaScript:void(0);">
-                                    <h4>Kelas Bahasa Inggris Gratis</h4>
+                                    <h4>Kelas Bahasa Inggris</h4>
                                 </a>
                                 <ul class="list">
                                     <li><a href="#"><i class="lnr lnr-users"></i> 63</a></li>
                                     <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru English SMKN 1 Ciamis</a></li>
+                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru Indonesia SMPN Bandung</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -79,14 +79,14 @@
                         <div class="courses_item" data-aos="fade-up" data-aos-duration="1800">
                             <img src="<?= base_url('assets/') ?>img/courses/course-5.jpg" alt="">
                             <div class="hover_text">
-                                <a class="cat" href="#">Gratis</a>
+                                <a class="cat" href="#">Akses</a>
                                 <a href="javaScript:void(0);">
-                                    <h4>Kelas Bahasa Indonesia Gratis</h4>
+                                    <h4>Kelas Bahasa Indonesia </h4>
                                 </a>
                                 <ul class="list">
                                     <li><a href="#"><i class="lnr lnr-users"></i> 24</a></li>
                                     <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru Indonesia SMKN 1 Ciamis</a>
+                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru Indonesia SMPN Bandung</a>
                                     </li>
                                 </ul>
                             </div>
@@ -98,14 +98,14 @@
                 <div class="course_item" data-aos="fade-left" data-aos-duration="1800">
                     <img src="<?= base_url('assets/') ?>img/courses/course-3.jpg" alt="">
                     <div class="hover_text">
-                        <a class="cat" href="#">Gratis</a>
+                        <a class="cat" href="#">Akses</a>
                         <a href="javaScript:void(0);">
-                            <h4>Kelas Pendidikan Agama Islam Gratis</h4>
+                            <h4>Kelas Pendidikan Agama Islam </h4>
                         </a>
                         <ul class="list">
                             <li><a href="#"><i class="lnr lnr-users"></i> 35</a></li>
                             <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                            <li><a href="#"><i class="lnr lnr-user"></i> Guru Agama SMKN 1 Ciamis</a></li>
+                            <li><a href="#"><i class="lnr lnr-user"></i> Guru Indonesia SMPN Bandung</a></li>
                         </ul>
                     </div>
                 </div>
