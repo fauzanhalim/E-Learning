@@ -33,23 +33,6 @@
 <body style="background-color: #edf2f7">
     <!-- Header Menu Area -->
     <header class="header_area" style="background-color: white !important;">
-        <div class="top_menu row m0">
-            <div class="container">
-                <div class="float-left">
-                    <ul class="list header_social">
-                        <li><a href="https://www.facebook.com/syaaauqi"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://twitter.com/syaaauqi"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="https://dribbble.com/syaufy"><i class="fa fa-dribbble"></i></a></li>
-                        <li><a href="https://www.behance.net/syaufy"><i class="fa fa-behance"></i></a></li>
-                        <li><a href="https://www.github.com/syauqi"><i class="fa fa-github"></i></a></li>
-                        <li><a href="https://www.instagram.com/syaufy"><i class="fa fa-instagram"></i></a></li>
-                    </ul>
-                </div>
-                <div class="float-right">
-                    <a class="dn_btn" href="mailto:apps.E-Learning@gmail.com">apps.E-Learning@gmail.com</a>
-                </div>
-            </div>
-        </div>
         <div class="main_menu">
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container">
